@@ -6,6 +6,9 @@ Players must navigate through three levels: the castle exterior, the castle inte
 LINK TO GAME: 
 https://drive.google.com/file/d/1-rSAWVwNFL0YkJC2yzXhlx0nczJJxiGc/view?usp=drive_link
 
+LINK TO VIDEO:
+https://drive.google.com/file/d/1AbAMwS0oWqBDOW0pozEs8_3EMWfIn8sh/view?usp=sharing
+
 Download and unzip the file, the application will be named "Snakecersist", open it and play!
 
 CONTROLS:
